@@ -1,36 +1,45 @@
 body{
-									}
+							font-size: #333333;
+							color: #333333;
+					}
 	p{
-					font-family: Titillium Web;
 							font-size: 18px;
-							}
+							color: #333333;
+					}
 	h1,.h1{
 					font-family: Titillium Web;
 							font-size: 45px;
-							}
+							color: #333333;
+					}
 	h2,.h2{
 					font-family: Titillium Web;
 							font-size: 35px;
-							}
+							color: #333333;
+					}
 	h3,.h3{
 					font-family: Titillium Web;
 							font-size: 25px;
-							}
+							color: #333333;
+					}
 	h4,.h4{
 					font-family: Titillium Web;
 							font-size: 20px;
-							}
+							color: #333333;
+					}
 	h5,.h5{
 					font-family: Titillium Web;
 							font-size: 18px;
-							}
+							color: #333333;
+					}
 	h6,.h6{
 					font-family: Titillium Web;
 							font-size: 16px;
-							}
+							color: #333333;
+					}
 	a{
 					font-family: Titillium Web;
-									}
+									color: #333333;
+					}
 
 
 
@@ -274,7 +283,7 @@ margin-top:10px;
     margin-bottom: 50px !important;
 }
 
-	
+	.button_3750412{-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-color:#d74680;background-image:none;color:#ffffff;font-family:Titillium Web;font-size:14px;line-height:22px;letter-spacing:1px;text-transform:uppercase;font-weight:600;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;padding-left:90px;padding-right:90px;padding-top:21px;padding-bottom:21px;display:inline-block;}.button_3750412:hover{background-color:#d74680;background-image:none;color:#000000;font-family:Titillium Web;font-size:14px;line-height:22px;letter-spacing:1px;text-transform:uppercase;font-weight:600;border-top-left-radius:5px;border-top-right-radius:5px;border-bottom-left-radius:5px;border-bottom-right-radius:5px;padding-left:90px;padding-right:90px;padding-top:21px;padding-bottom:21px;}.button_2046901{-webkit-transition: all .2s ease-in-out;-moz-transition: all .2s ease-in-out;-o-transition: all .2s ease-in-out;transition: all .2s ease-in-out;background-color:#f0ad4e;background-image:none;color:#ffffff;font-family:Titillium Web;font-size:18px;line-height:32px;text-transform:uppercase;font-weight:600;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-left:72px;padding-right:72px;padding-top:22px;padding-bottom:22px;display:inline-block;}.button_2046901:hover{background-color:#f0ad4e;background-image:none;color:#ffffff;font-family:Titillium Web;font-size:18px;line-height:32px;text-transform:uppercase;font-weight:600;border-top-left-radius:7px;border-top-right-radius:7px;border-bottom-left-radius:7px;border-bottom-right-radius:7px;padding-left:72px;padding-right:72px;padding-top:22px;padding-bottom:22px;}
 .navbar-custom{
 		background-color:rgba(47,17,112,0);
 }
