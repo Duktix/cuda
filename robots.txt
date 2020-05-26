@@ -1,0 +1,3 @@
+Sitemap:http://www.bino-web.tk/sitemap.xml
+User-agent:*
+Disallow:
